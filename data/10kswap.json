@@ -1,6 +1,6 @@
 {
   "name": "10KSwap",
-  "description": "10KSwap, being built on StarkNet, is an AMM protocol that advances with Ethereum. 10K aims to revolutionize the performance of the AMM protocol by leveraging the rollup feature, bringing lower fees, less friction, and ultimately better liquidity to the L2 world and advance DeFi adoption.",
+  "description": "10KSwap, being built on Starknet, is an AMM protocol that advances with Ethereum. 10K aims to revolutionize the performance of the AMM protocol by leveraging the rollup feature, bringing lower fees, less friction, and ultimately better liquidity to the L2 world and advance DeFi adoption.",
   "short_description": "A Layer2 AMM protocol",
   "tags": ["DeFi", "Infrastructure"],
   "contracts": [
@@ -17,7 +17,7 @@
       "address": "0x231adde42526bad434ca2eb983efdd64472638702f87f97e6e3c084f264e06f"
     }
   ],
-  "goerliContracts": [
+  "sepoliaContracts": [
     {
       "name": "Router",
       "address": "0x00975910cd99bc56bd289eaaa5cee6cd557f0ddafdb2ce6ebea15b158eb2c664"
@@ -32,9 +32,10 @@
     }
   ],
   "audits": [],
-  "dotw": false,
+  "verified": false,
+  "dotm": false,
   "links": {
-    "website": "https://10kswap.com/",
+    "website": "https://10kswap.com/?utm_source=dappland",
     "careers": "",
     "twitter": "https://twitter.com/10KSwap",
     "telegram": "",

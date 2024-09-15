@@ -1,16 +1,15 @@
 {
   "name": "ViewBlock",
-  "description": "StarkNet Explorer with full decoding, advanced analytics and prime token/NFT support.",
-  "short_description": "StarkNet Block Explorer",
-  "tags": [
-    "Infrastructure"
-  ],
+  "description": "Starknet Explorer with full decoding, advanced analytics and prime token/NFT support.",
+  "short_description": "Starknet Block Explorer",
+  "tags": ["Infrastructure"],
   "contracts": [],
-  "goerliContracts": [],
+  "sepoliaContracts": [],
   "audits": [],
-  "dotw": false,
+  "verified": false,
+  "dotm": false,
   "links": {
-    "website": "https://v2.viewblock.io/starknet",
+    "website": "https://v2.viewblock.io/starknet/?utm_source=dappland",
     "careers": "mailto:hiring@viewblock.io",
     "twitter": "https://twitter.com/ViewBlock",
     "telegram": "",

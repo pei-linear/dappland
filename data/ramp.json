@@ -4,16 +4,17 @@
   "short_description": "Safe and easy way to buy crypto",
   "tags": ["Onramps"],
   "contracts": [],
-  "goerliContracts": [],
+  "sepoliaContracts": [],
   "audits": [
     {
       "name": "App penetration tests conducted by Securitum.",
       "url": "https://research.securitum.com/penetration-testing/"
     }
   ],
-  "dotw": false,
+  "verified": false,
+  "dotm": false,
   "links": {
-    "website": "https://ramp.network/",
+    "website": "https://ramp.network/?utm_source=dappland",
     "careers": "https://join.ramp.network/",
     "twitter": "https://twitter.com/RampNetwork",
     "telegram": "",

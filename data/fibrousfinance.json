@@ -1,23 +1,29 @@
 {
   "name": "Fibrous Finance",
-  "description": "Fibrous is a price exploration and routing algorithm across multiple AMMs that offers token exchanges with the best and cheapest rate at StarkNet validity Rollup.",
-  "short_description": "Gathers all AMMs of StarkNet at one place.",
+  "description": "Fibrous is a price exploration and routing algorithm across multiple AMMs that offers token exchanges with the best and cheapest rate at Starknet validity Rollup.",
+  "short_description": "Gathers all AMMs of Starknet at one place.",
   "tags": ["DeFi"],
-  "contracts": [],
-  "goerliContracts": [
+  "contracts": [
+    {
+      "name": "Router Contract V2",
+      "address": "0x03201e8057a781dca378564b9d3bbe9b5b7617fac4ad9d9deaa1024cf63f877e"
+    }
+  ],
+  "sepoliaContracts": [
     {
       "name": "Router Contract",
       "address": "0x7c6f04a78f405bb2ff08cb07a1a1e0868800fa1ed41d9067d8f8f28ba73a4f9"
     }
   ],
   "audits": [],
-  "dotw": false,
+  "verified": false,
+  "dotm": false,
   "links": {
-    "website": "https://fibrous.finance/",
+    "website": "https://fibrous.finance/?utm_source=dappland",
     "careers": "",
     "twitter": "https://twitter.com/FibrousFinance",
     "telegram": "",
-    "discord": "",
+    "discord": "https://discord.gg/vW3cah6m",
     "github": "https://github.com/Fibrous-Finance",
     "youtube": "",
     "medium": "https://medium.com/@fibrous",
